@@ -17,6 +17,11 @@
 - linear-search
 - binary-search
 
+### data-structure
+
+- que
+- stack
+
 ## todo
 
 ---
@@ -29,8 +34,6 @@
 
 - heap
 - hash-table
-- que
-- stack
 - array
 - list
 
